@@ -1,7 +1,4 @@
 Mokshya Protocol's token vesting contract to vest tokens as per your need on the Aptos Blockchain.
-# Cloning the repository
-
-``` git clone https://github.com/mokshyaprotocol/aptos-token-vesting ```
 
 Change the file path in dependencies and update the addresses 
 
